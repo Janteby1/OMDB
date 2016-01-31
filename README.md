@@ -104,6 +104,11 @@ print(requests.get("http://spell-buddy.herokuapp.com/api/spells?name=magic%20mis
 * Endpoints are a webservice that points us to specific part of an API
 * Many API's will have multiple endpoints and you have to target the right one to grab the data you want
 
+##### Part 5 - Examples of some sites that are using APIs
+
+* Google API - [http://www.nycdessertmap.com/](http://jeffweather.herokuapp.com/)
+* Weather underground API - [http://jeffweather.herokuapp.com/](http://jeffweather.herokuapp.com/)
+
 ##### Resources
 
 * [Tutorial Point for HTTP Request](http://www.tutorialspoint.com/http/http_requests.htm)
