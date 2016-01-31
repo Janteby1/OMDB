@@ -16,6 +16,10 @@
 	* If multiple movies appear then a list should populate with the title and year
 	* A user should be able to choose which one from the list to view
 	* When a single movie is populated it should show the title, year, director, cast, and plot
+    * You should use the following strategy before you get started writing any code:
+        * First, you should first write out your [User stories](https://www.mountaingoatsoftware.com/agile/user-stories).
+        * Next, you should write out your [Pseudocode](http://programmers.stackexchange.com/questions/136292/what-is-pseudocode).
+        * Last, you should sit down and write your code.
 	
 ***NOTES***
 
